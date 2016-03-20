@@ -12,9 +12,15 @@
                 this.credentials.username = username;
                 this.credentials.password = password;
             };
+<<<<<<< HEAD
+<<<<<<< HEAD
             this.logout = function () {
                 this.credentials = {};
             };
+=======
+>>>>>>> 2e32d06... add CarPortal class
+=======
+>>>>>>> 2e32d06... add CarPortal class
         }
     }
 })();
